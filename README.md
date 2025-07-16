@@ -134,7 +134,7 @@ http://localhost:5000
 
 ## Dashboard Sample  
 
-![Final App Layout](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction/blob/master/app-pic.png)  
+![Final App Layout]()  
 
 ---
 
