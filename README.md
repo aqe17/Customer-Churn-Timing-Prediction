@@ -1,7 +1,6 @@
 
 # Customer Survival Analysis and Churn Prediction  
 
-Deployed App: [Heroku Live Demo](https://churn-prediction-app.herokuapp.com/)  
 
 ---
 
